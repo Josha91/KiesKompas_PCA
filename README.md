@@ -11,3 +11,7 @@ With PCA, we reduce this 30 dimensional space to a 2 dimensional space, which is
 
 
 ![PCA of dutch political parties](https://github.com/Josha91/KiesKompas_PCA/blob/main/kieskompas_PCA.png)
+
+For comparison, the 'classic' KiesKompas looks like this for the 2021 elections:
+
+![Classic KiesKompas](https://github.com/Josha91/KiesKompas_PCA/blob/main/kieskompas_original.png)
