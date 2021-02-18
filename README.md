@@ -9,7 +9,5 @@ In this case, we work with a 30 dimensional space: 1 dimension for each thesis. 
 
 With PCA, we reduce this 30 dimensional space to a 2 dimensional space, which is shown below. 
 
-![alt text](https://github.com/Josha91/KiesKompas_PCA/blob/master/kieskompas_PCA.png?raw=true)
 
-
-![Image of Yaktocat](https://github.com/Josha91/KiesKompas_PCA/blob/main/kieskompas_PCA.png)
+![PCA of dutch political parties](https://github.com/Josha91/KiesKompas_PCA/blob/main/kieskompas_PCA.png)
