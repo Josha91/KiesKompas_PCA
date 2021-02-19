@@ -26,4 +26,4 @@ The code in this repo also explores this. It does this by taking the PCA from ab
 What we then see is that indeed the most central parties (lowest centricity) are the least predictable (largest spread in residuals ~ highest entropy). 
 
 
-![Centricity vs entropy](https://github.com/Josha91/KiesKompas_PCA/blob/main/centricity_vs_inverse_pca_residuals.png.png)
+![Centricity vs entropy](https://github.com/Josha91/KiesKompas_PCA/blob/main/centricity_vs_inverse_pca_residuals.png)
