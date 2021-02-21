@@ -212,6 +212,5 @@ def old():
 	ax.text(430,0,'Rechts',rotation=-90,va='center')
 	plt.show()
 
-#a = Animation_kieskompas()
-#a.plot()
-a = compare_center_to_extreme()
+if __name__ == "__main__":
+	a = compare_center_to_extreme()
